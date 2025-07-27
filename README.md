@@ -59,7 +59,7 @@ ChatConnect/
 
 ## Author
 
-**Pratiksha Ashok **
+**Pratiksha Ashok Khot**
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
 Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
 
